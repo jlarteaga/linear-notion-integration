@@ -1,0 +1,3 @@
+# Linear-Notion Integration
+
+This aims to build a prototype to synchronize the awesome https://linear.app/[Linear] to the awesome https://www.notion.so/[Notion] via webhooks.
